@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-<https://deploy-this-repo-dossr-qmeepf7y6-dossr-nks-projects.vercel.app/>
+<https://deploy-this-repo-dossr-nk.vercel.app/>
 
 
